@@ -1,0 +1,14 @@
+# Root
+.env.example
+README.md
+docker-compose.yml
+nginx/
+.github/
+
+# Backend Dockerfile
+backend/Dockerfile
+
+# Frontend Dockerfile
+frontend/Dockerfile
+frontend/.next/
+frontend/node_modules/
